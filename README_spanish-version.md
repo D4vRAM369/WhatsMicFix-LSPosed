@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Audio_Processing-DSP-orange"/>
   <img src="https://img.shields.io/badge/Made_with-Love_&_Coffee-ff69b4"/>
   <a href="https://www.buymeacoffee.com/D4vRAM369"><img src="https://img.shields.io/badge/Buy_me_a_coffee-☕-5F7FFF"/></a>
+  <a href="https://deepwiki.com/D4vRAM369/WhatsMicFix-LSPosed"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </p>
 
 <p align="center">
